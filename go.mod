@@ -1,4 +1,4 @@
-module facility
+module github.com/huqiyii/facility
 
 go 1.20
 
