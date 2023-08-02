@@ -1,5 +1,7 @@
 package conve
 
+import "github.com/cstockton/go-conv"
+
 func Int64Default(i interface{}, v int64) int64 {
 	if i == nil {
 		return v
